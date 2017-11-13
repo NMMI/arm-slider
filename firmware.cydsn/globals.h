@@ -36,8 +36,8 @@
 * \file         globals.h
 *
 * \brief        Global definitions and macros are set in this file.
-* \date         June 06, 2016
-* \author       _abrobotics_
+* \date         October 01, 2017
+* \author       _Centro "E.Piaggio"_
 * \copyright    (C) 2012-2016 qbrobotics. All rights reserved.
 * \copyright    (C) 2017 Centro "E.Piaggio". All rights reserved.
 */
@@ -56,7 +56,7 @@
 //                                                                        DEVICE
 //==============================================================================
 
-#define VERSION                 "ARMSLIDER MOD v6.1.0"
+#define VERSION                 "HAP-PRO MOD v6.1.0"
 
 #define NUM_OF_MOTORS           2       /*!< Number of motors.*/
 #define NUM_OF_SENSORS          3       /*!< Number of encoders.*/

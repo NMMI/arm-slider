@@ -32,32 +32,21 @@
 // POSSIBILITY OF SUCH DAMAGE.
 // ----------------------------------------------------------------------------
 
-
 /**
 * \file         main.c
 *
 * \brief        Firmware main file.
-* \date         June 06, 2016
-* \author       qbrobotics
+* \date         October 01, 2017
+* \author       _Centro "E.Piaggio"_
 * \copyright    (C) 2012-2016 qbrobotics. All rights reserved.
 * \copyright    (C) 2017 Centro "E.Piaggio". All rights reserved.
-*/
-
-/**
 * \mainpage     Firmware
-* \brief        This is the firmware of the qbHand.
-* \version      6.0.0
+* \brief        This is the firmware of the Hap Pro.
+* \version      1.0
 *
-* \author       _qbrobotics_
-*
-* \date         June 06, 2016
-*
-* \details      This is the firmware of the qbHand. It can control a motor and
+* \details      This is the firmware of the Hap Pro. It can control a motor and
 *               read its encoder. Also can read and convert analog measurements
 *               connected to the PSoC microcontroller.                
-*
-* \copyright    (C) 2012-2016 qbrobotics. All rights reserved.
-* \copyright    (C) 2017 Centro "E.Piaggio". All rights reserved.
 *
 */
 

@@ -35,15 +35,11 @@
 /**
  *  \file       commands.h
  *
- *  \brief      Definitions for qbMove and qbHand commands, parameters and packages.
- *
- *  \details
- *  This file is included in the qbMove and qbHand firmware, in its libraries and
- *  applications. It contains all definitions that are necessary for the
- *  contruction of communication packages.
- *
- *  It includes definitions for all of the device commands, parameters and also
- *  the size of answer packages.
+ *  \brief      Definitions for commands, parameters and packages.
+ *  \date         October 01, 2017
+ *  \author       _Centro "E.Piaggio"_
+ *  \copyright    (C) 2012-2016 qbrobotics. All rights reserved.
+ *  \copyright    (C) 2017 Centro "E.Piaggio". All rights reserved.
  *
 **/
 
@@ -56,7 +52,7 @@
 //==============================================================================
 
 
-/** \name qbMove and qbHand Commands
+/** \name Commands
  * \{
 **/
 
@@ -121,7 +117,7 @@ enum qbmove_command
     CMD_SET_BAUDRATE            = 144,  ///< Command to set baudrate
                                         ///  of communication
     CMD_EXT_DRIVE               = 145,  ///< Command to set the actual measurements as inputs
-                                        ///  to another device (Only for Armslider device)
+                                        ///  to another device (Only for Hap Pro device)
     CMD_GET_JOYSTICK            = 146   ///< Command to get the joystick measurements (Only 
                                         ///  for devices driven by a joystick)    
 };
@@ -130,7 +126,7 @@ enum qbmove_command
 //==============================================================================
 //                                                                    PARAMETERS
 //==============================================================================
-/** \name qbMove and qbHand Parameters */
+/** \name Parameters */
 /** \{ */
 
 enum qbmove_parameter
@@ -252,7 +248,7 @@ enum data_types {
 //==============================================================================
 //                                                                   INFORMATION
 //==============================================================================
-/** \name QB Move Information Strings */
+/** \name Information Strings */
 /** \{ */
 #define INFO_ALL        0 ///< All system information.
 

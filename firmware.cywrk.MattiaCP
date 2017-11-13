@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="firmware\firmware\Source Files\command_processing.c">
+<ExpandedNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\TopDesign</v>
+<v>firmware\firmware\firmware.cydwr</v>
+<v>firmware\firmware\firmware.cydwr\Pins</v>
+<v>firmware\firmware\firmware.cydwr\Analog</v>
+<v>firmware\firmware\firmware.cydwr\Clocks</v>
+<v>firmware\firmware\firmware.cydwr\Interrupts</v>
+<v>firmware\firmware\firmware.cydwr\DMA</v>
+<v>firmware\firmware\firmware.cydwr\System</v>
+<v>firmware\firmware\firmware.cydwr\Directives</v>
+<v>firmware\firmware\firmware.cydwr\Flash Security</v>
+<v>firmware\firmware\firmware.cydwr\EEPROM</v>
+<v>firmware\firmware\Header Files</v>
+<v>firmware\firmware\Header Files\command_processing.h</v>
+<v>firmware\firmware\Header Files\commands.h</v>
+<v>firmware\firmware\Header Files\device.h</v>
+<v>firmware\firmware\Header Files\globals.h</v>
+<v>firmware\firmware\Header Files\interruptions.h</v>
+<v>firmware\firmware\Header Files\utils.h</v>
+<v>firmware\firmware\Source Files</v>
+<v>firmware\firmware\Source Files\command_processing.c</v>
+<v>firmware\firmware\Source Files\globals.c</v>
+<v>firmware\firmware\Source Files\interruptions.c</v>
+<v>firmware\firmware\Source Files\main.c</v>
+<v>firmware\firmware\Source Files\utils.c</v>
+<v>firmware\firmware\Generated_Source</v>
+<v>firmware\firmware\Generated_Source\PSoC3</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\TopDesign</v>
+<v>firmware\firmware\firmware.cydwr</v>
+<v>firmware\firmware\firmware.cydwr\Pins</v>
+<v>firmware\firmware\firmware.cydwr\Analog</v>
+<v>firmware\firmware\firmware.cydwr\Clocks</v>
+<v>firmware\firmware\firmware.cydwr\Interrupts</v>
+<v>firmware\firmware\firmware.cydwr\DMA</v>
+<v>firmware\firmware\firmware.cydwr\System</v>
+<v>firmware\firmware\firmware.cydwr\Directives</v>
+<v>firmware\firmware\firmware.cydwr\Flash Security</v>
+<v>firmware\firmware\firmware.cydwr\EEPROM</v>
+<v>firmware\firmware\Header Files</v>
+<v>firmware\firmware\Header Files\command_processing.h</v>
+<v>firmware\firmware\Header Files\commands.h</v>
+<v>firmware\firmware\Header Files\device.h</v>
+<v>firmware\firmware\Header Files\globals.h</v>
+<v>firmware\firmware\Header Files\interruptions.h</v>
+<v>firmware\firmware\Header Files\utils.h</v>
+<v>firmware\firmware\Source Files</v>
+<v>firmware\firmware\Source Files\command_processing.c</v>
+<v>firmware\firmware\Source Files\globals.c</v>
+<v>firmware\firmware\Source Files\interruptions.c</v>
+<v>firmware\firmware\Source Files\main.c</v>
+<v>firmware\firmware\Source Files\utils.c</v>
+<v>firmware\firmware\Generated_Source</v>
+<v>firmware\firmware\Generated_Source\PSoC3</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC_AMux</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC_Ext_CP_Clk</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC_IRQ</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC_SOC</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC_STATUS</v>
+<v>firmware\firmware\Generated_Source\PSoC3\ADC_theACLK</v>
+<v>firmware\firmware\Generated_Source\PSoC3\BOARD_LED</v>
+<v>firmware\firmware\Generated_Source\PSoC3\Bootloadable</v>
+<v>firmware\firmware\Generated_Source\PSoC3\CLOCK_ENCODERS</v>
+<v>firmware\firmware\Generated_Source\PSoC3\CLOCK_PWM</v>
+<v>firmware\firmware\Generated_Source\PSoC3\CLOCK_UART</v>
+<v>firmware\firmware\Generated_Source\PSoC3\COUNTER_ENC</v>
+<v>firmware\firmware\Generated_Source\PSoC3\CURRENT_SENSE_1</v>
+<v>firmware\firmware\Generated_Source\PSoC3\cy_boot</v>
+<v>firmware\firmware\Generated_Source\PSoC3\DMA</v>
+<v>firmware\firmware\Generated_Source\PSoC3\EEPROM</v>
+<v>firmware\firmware\Generated_Source\PSoC3\EMG_1</v>
+<v>firmware\firmware\Generated_Source\PSoC3\EMG_2</v>
+<v>firmware\firmware\Generated_Source\PSoC3\FF_STATUS</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\TopDesign</v>
+<v>firmware\firmware\TopDesign\TopDesign.cysch</v>
+<v>firmware\firmware\TopDesign\TopDesign.cysym</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\TopDesign</v>
+<v>firmware\firmware\TopDesign\TopDesign.cysch</v>
+<v>firmware\firmware\TopDesign\TopDesign.cysym</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\firmware.gpdsc</v>
+<v>firmware\firmware\firmware.rpt</v>
+<v>firmware\firmware\firmware_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\firmware.gpdsc</v>
+<v>firmware\firmware\firmware.rpt</v>
+<v>firmware\firmware\firmware_timing.html</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\PSoC 3 Architecture TRM</v>
+<v>firmware\firmware\CY8C32 Family Datasheet</v>
+<v>firmware\firmware\System Reference Guides</v>
+<v>firmware\firmware\System Reference Guides\cy_boot_v5_20</v>
+<v>firmware\firmware\ADC_DelSig_v3_20.pdf</v>
+<v>firmware\firmware\AMuxHw_v1_50.pdf</v>
+<v>firmware\firmware\and_v1_0</v>
+<v>firmware\firmware\and_v1_0\and_v1_0.pdf</v>
+<v>firmware\firmware\BasicCounter_v1_0.pdf</v>
+<v>firmware\firmware\Bootloadable_v1_40.pdf</v>
+<v>firmware\firmware\Counter_v3_0</v>
+<v>firmware\firmware\Counter_v3_0\Counter_v3_0.pdf</v>
+<v>firmware\firmware\cy_clock_v2_20</v>
+<v>firmware\firmware\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>firmware\firmware\cy_constant_v1_0.pdf</v>
+<v>firmware\firmware\cy_dma_v1_70.pdf</v>
+<v>firmware\firmware\cy_isr_v1_70</v>
+<v>firmware\firmware\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>firmware\firmware\cy_pins_v2_10</v>
+<v>firmware\firmware\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>firmware\firmware\cy_srff_v1_0</v>
+<v>firmware\firmware\cy_srff_v1_0\cy_srff_v1_0.pdf</v>
+<v>firmware\firmware\cy_sync_v1_0</v>
+<v>firmware\firmware\cy_sync_v1_0\cy_sync_v1_0.pdf</v>
+<v>firmware\firmware\CyControlReg_v1_80</v>
+<v>firmware\firmware\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>firmware\firmware\cydff_v1_30</v>
+<v>firmware\firmware\cydff_v1_30\cydff_v1_30.pdf</v>
+<v>firmware\firmware\CyStatusReg_v1_90</v>
+<v>firmware\firmware\CyStatusReg_v1_90\CyStatusReg_v1_90.pdf</v>
+<v>firmware\firmware\DigitalComp_v1_0.pdf</v>
+<v>firmware\firmware\EEPROM_v3_0.pdf</v>
+<v>firmware\firmware\not_v1_0</v>
+<v>firmware\firmware\not_v1_0\not_v1_0.pdf</v>
+<v>firmware\firmware\or_v1_0</v>
+<v>firmware\firmware\or_v1_0\or_v1_0.pdf</v>
+<v>firmware\firmware\PWM_v3_30.pdf</v>
+<v>firmware\firmware\ShiftReg_v2_30</v>
+<v>firmware\firmware\ShiftReg_v2_30\ShiftReg_v2_30.pdf</v>
+<v>firmware\firmware\Timer_v2_70</v>
+<v>firmware\firmware\Timer_v2_70\Timer_v2_70.pdf</v>
+<v>firmware\firmware\UART_v2_50.pdf</v>
+<v>firmware\firmware\ZeroTerminal</v>
+<v>firmware\firmware\ZeroTerminal\ZeroTerminal.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>firmware</v>
+<v>firmware\firmware</v>
+<v>firmware\firmware\PSoC 3 Architecture TRM</v>
+<v>firmware\firmware\CY8C32 Family Datasheet</v>
+<v>firmware\firmware\System Reference Guides</v>
+<v>firmware\firmware\System Reference Guides\cy_boot_v5_20</v>
+<v>firmware\firmware\ADC_DelSig_v3_20.pdf</v>
+<v>firmware\firmware\AMuxHw_v1_50.pdf</v>
+<v>firmware\firmware\and_v1_0</v>
+<v>firmware\firmware\and_v1_0\and_v1_0.pdf</v>
+<v>firmware\firmware\BasicCounter_v1_0.pdf</v>
+<v>firmware\firmware\Bootloadable_v1_40.pdf</v>
+<v>firmware\firmware\Counter_v3_0</v>
+<v>firmware\firmware\Counter_v3_0\Counter_v3_0.pdf</v>
+<v>firmware\firmware\cy_clock_v2_20</v>
+<v>firmware\firmware\cy_clock_v2_20\cy_clock_v2_20.pdf</v>
+<v>firmware\firmware\cy_constant_v1_0.pdf</v>
+<v>firmware\firmware\cy_dma_v1_70.pdf</v>
+<v>firmware\firmware\cy_isr_v1_70</v>
+<v>firmware\firmware\cy_isr_v1_70\cy_isr_v1_70.pdf</v>
+<v>firmware\firmware\cy_pins_v2_10</v>
+<v>firmware\firmware\cy_pins_v2_10\cy_pins_v2_10.pdf</v>
+<v>firmware\firmware\cy_srff_v1_0</v>
+<v>firmware\firmware\cy_srff_v1_0\cy_srff_v1_0.pdf</v>
+<v>firmware\firmware\cy_sync_v1_0</v>
+<v>firmware\firmware\cy_sync_v1_0\cy_sync_v1_0.pdf</v>
+<v>firmware\firmware\CyControlReg_v1_80</v>
+<v>firmware\firmware\CyControlReg_v1_80\CyControlReg_v1_80.pdf</v>
+<v>firmware\firmware\cydff_v1_30</v>
+<v>firmware\firmware\cydff_v1_30\cydff_v1_30.pdf</v>
+<v>firmware\firmware\CyStatusReg_v1_90</v>
+<v>firmware\firmware\CyStatusReg_v1_90\CyStatusReg_v1_90.pdf</v>
+<v>firmware\firmware\DigitalComp_v1_0.pdf</v>
+<v>firmware\firmware\EEPROM_v3_0.pdf</v>
+<v>firmware\firmware\not_v1_0</v>
+<v>firmware\firmware\not_v1_0\not_v1_0.pdf</v>
+<v>firmware\firmware\or_v1_0</v>
+<v>firmware\firmware\or_v1_0\or_v1_0.pdf</v>
+<v>firmware\firmware\PWM_v3_30.pdf</v>
+<v>firmware\firmware\ShiftReg_v2_30</v>
+<v>firmware\firmware\ShiftReg_v2_30\ShiftReg_v2_30.pdf</v>
+<v>firmware\firmware\Timer_v2_70</v>
+<v>firmware\firmware\Timer_v2_70\Timer_v2_70.pdf</v>
+<v>firmware\firmware\UART_v2_50.pdf</v>
+<v>firmware\firmware\ZeroTerminal</v>
+<v>firmware\firmware\ZeroTerminal\ZeroTerminal.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\firmware.cydsn\firmware.cydwr" />
+<name v=".\firmware.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\firmware.cydsn\globals.h" />
+<name v=".\firmware.cydsn\main.c" />
+<name v=".\firmware.cydsn\interruptions.c" />
+<name v=".\firmware.cydsn\command_processing.c" />
+<name v=".\firmware.cydsn\commands.h" />
+<name v=".\firmware.cydsn\command_processing.h" />
+<name v=".\firmware.cydsn\globals.c" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Vertical"><TabbedMdiContainer Size="955, 653" SelectedTabbedMdiWindow="56ec8467-490a-4578-834d-9ddd173aa81c"><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\firmware.cydwr" Guid="330398e8-082a-4fab-ba2b-538c60816ee4" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\TopDesign\TopDesign.cysch" Guid="03c3174c-b8f2-4b50-8154-dc72446f3ce4" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\globals.h" Guid="aba87a0f-bb58-4215-8a7f-e9ac4bf75c75" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\main.c" Guid="06cf9426-c572-45e0-83ad-e06c703b020a" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\interruptions.c" Guid="59b23337-d92e-467f-99ed-8ab722ac4999" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\command_processing.c" Guid="56ec8467-490a-4578-834d-9ddd173aa81c" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\commands.h" Guid="492c47a8-0922-4496-8836-0c4f4bff766a" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\command_processing.h" Guid="d69a8872-e92c-47b1-888d-670170b9e885" /><DocumentWindow Key="C:\Users\MattiaCP\Documents\GITHUB\arm-slider\firmware.cydsn\globals.c" Guid="e6b6f9ee-cde2-4aff-beb5-2bf4bbd988b5" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
